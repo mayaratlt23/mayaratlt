@@ -1,5 +1,5 @@
-### Olá! Eu sou a Mayara Talita
-### Seja bem vinde ao meu perfil!
+### Olá! Eu sou a Mayara Talita, seja bem vinde ao meu perfil!
+
 
 
 - 🌱 Atualmente estou aprendendo Lógica de programação, Java, e MySQL
