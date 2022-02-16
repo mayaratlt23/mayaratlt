@@ -24,4 +24,10 @@
  
   </div>
   
-  
+   ## Total de visitas no meu perfil :sunflower: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/mayaratlt/count.svg" />
+ </p>
+
+</p>
+
