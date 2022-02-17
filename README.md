@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Atualmente estou aprendendo Lógica de programação, Java, e MySQL
+- 🌱 Atualmente estou aprendendo Lógica de programação, Java, Spring e MySQL
 - 😄 Pronomes: Ela/dela
 
 
