@@ -13,7 +13,7 @@
  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
  <img align="right" alt="May-img" src="https://discord.com/channels/724304330139762709/724304349760847909/945004467928039424">
 
- </div><br/>
+ </div>
 
 <div align="left">
   <a href="https://github.com/mayaratlt">
