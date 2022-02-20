@@ -5,7 +5,7 @@
 - 🌱 Estudante na Generation Brasil
 - 😄 Pronomes: Ela/dela
 
- ## Tecnologias que estou aprendendo 
+ ## Tecnologias que estou estudando
  
  <div style="display:  inline_block">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
