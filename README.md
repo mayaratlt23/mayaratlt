@@ -5,7 +5,7 @@
 - 🌱 Desenvolvedora Front-End formada pela Generation Brasil
 - 😄 Pronomes: Ela/dela
 
- ## Tecnologias que aprendi durante o bootcamp
+  
  
  <div style="display:  inline_block">
  
